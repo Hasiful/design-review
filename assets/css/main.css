@@ -16,6 +16,10 @@
 }
 
 /* header new */
+/* header new */
+/* header new */
+/* header new */
+/* header new */
 
 .cls__main_header {
     background: var(--bg-color);
@@ -133,6 +137,21 @@
     text-decoration: none !important;
 }
 
+img.sticky_logo {
+    display: none;
+}
+
+.sticky img.sticky_logo {
+    display: block;
+}
+
+.sticky img.fixed_logo {
+    display: none;
+}
+
+/* header new */
+/* header new */
+/* header new */
 /* header new */
 
 .cls__header_logo {
